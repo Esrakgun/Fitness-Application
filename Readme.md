@@ -86,6 +86,25 @@ Her türlü görüş, öneri ve iş birliği için bizimle iletişime geçebilir
 
 - 🚀 Performans ve erişilebilirlik iyileştirmeleri
 
-# 🖼️ Uygulama Ekran Görüntüsü :
+# 🖼️ Ekran Görüntüsü :
 
-![Evogym Ana Sayfa Görünümü](./assets/evogym-homepage.png)
+https://github.com/user-attachments/assets/ec9d44b8-d82f-4282-9a6c-a2c644e5aa43
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
